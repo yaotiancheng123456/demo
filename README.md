@@ -2,9 +2,8 @@
 
 ## demo-master
 
-```
 * 资源
     *  node图片服务器
     *  gulp解耦
 
-```
+
