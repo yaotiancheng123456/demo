@@ -12,7 +12,7 @@ npm install --save-dev gulp-uglify/minifier
 
 ### options
 
-'''
+```
 gulp.src(paths.tmp.modules)
     .pipe(minifier({
         output:{
@@ -24,7 +24,7 @@ gulp.src(paths.tmp.modules)
     }, uglifyjs))
     .pipe(gulp.dest(paths.dist.modules));
 
-'''
+```
 
 * minifier options
 
